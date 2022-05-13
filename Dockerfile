@@ -19,6 +19,3 @@ FROM bitnami/rabbitmq-cluster-operator:1.12.1-scratch-r6
 
 # Tags: 1.12.1-scratch-r4
 FROM bitnami/rabbitmq-cluster-operator:1.12.1-scratch-r4
-
-# Tags: 1.12.1-scratch-r3
-FROM bitnami/rabbitmq-cluster-operator:1.12.1-scratch-r3
